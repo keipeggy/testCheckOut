@@ -13,6 +13,8 @@ public class HelloWorld {
 		System.out.println("remove");
 		//Update
 		System.out.println("update");
+		//Delete
+		System.out.println("delete");
 	}
 
 }
