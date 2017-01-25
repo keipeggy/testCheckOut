@@ -10,12 +10,15 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Test 1");
-		System.out.println("Test 1");
-		System.out.println("Test 1");
 		System.out.println("Test 2");
 		System.out.println("Test 2");
-		
-		System.out.println("Cherry Pick");
+
+		//Add Comment
+		System.out.println("remove");
+		//Update
+		System.out.println("update");
+		//Delete
+		System.out.println("delete");
 	}
 
 }
